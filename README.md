@@ -10,7 +10,7 @@ Xem file [Hướng dẫn](https://github.com/colombo-trainee/trainee001/blob/mas
 
 # Tham khảo
 
-+ (Hướng dẫn chuyển từ PDF sang HTML)[https://www.izwebz.com/search/?q=PSD+sang+HTML&cx=014821440840817908112%3Atm2aqsqxgka&cof=FORID%3A10&ie=UTF-8&filter=0&siteurl=]
++ [Hướng dẫn chuyển từ PDF sang HTML](https://www.izwebz.com/search/?q=PSD+sang+HTML&cx=014821440840817908112%3Atm2aqsqxgka&cof=FORID%3A10&ie=UTF-8&filter=0&siteurl=)
 
 # Bài làm
 (các repo giải quyết yêu cầu của trainee001 được liệt kê ở đây)
