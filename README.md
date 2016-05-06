@@ -14,3 +14,5 @@ Xem file [Hướng dẫn](https://github.com/colombo-trainee/trainee001/blob/mas
 
 # Bài làm
 (các repo giải quyết yêu cầu của trainee001 được liệt kê ở đây)
+
++ [Nguyễn Minh Hoàng](https://github.com/colombo-trainee/hoangnm001)
