@@ -17,3 +17,4 @@ Xem file [Hướng dẫn](https://github.com/colombo-trainee/trainee001/blob/mas
 
 + [Nguyễn Minh Hoàng](https://github.com/colombo-trainee/hoangnm001)
 + [Nguyễn Hữu Tiến](https://github.com/colombo-trainee/tiennh001)
++ [Nguyễn Đức Đại](https://github.com/colombo-trainee/daind001)
