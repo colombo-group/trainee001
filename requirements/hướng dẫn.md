@@ -17,7 +17,7 @@
 # Bài tập 1:
 
 + Kiến thức sử dụng: HTML/CSS
-+ Cắt giao diện theo thiết kế dạng ảnh, psd
++ Cắt giao diện theo thiết kế dạng ảnh, psd. Các vị trí ảnh màu đen trên giao diện đã có ghi kích thước, thực tập viên tự chọn ảnh có kích thước tương ứng ở ngoài để cho vào.
 + Tiêu chí: 
  + ít ảnh, 
  + ít css, 
