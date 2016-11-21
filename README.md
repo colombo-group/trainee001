@@ -7,6 +7,7 @@ Xem file [Hướng dẫn](https://github.com/colombo-trainee/trainee001/blob/mas
 
 + Không push code bài của mình lên đây
 + Fork về tk của mình rồi push code lên
++ **Khi push lên, bài làm phải trong thư mục docs và file html chính đặt tên index.html**
 
 # Tham khảo
 
